@@ -67,4 +67,3 @@ your-repository-name/
 
 ```
 
-Just replace placeholders like `yourusername`, `your-repository-name`, and `your.email@example.com` with your actual details.
